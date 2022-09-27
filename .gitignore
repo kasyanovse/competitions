@@ -1,3 +1,9 @@
+# other
+dump/
+catboost_info/
+.ipynb_checkpoints/
+
+
 # csv files
 *.csv
 
