@@ -2,6 +2,7 @@
 dump/
 catboost_info/
 .ipynb_checkpoints/
+.pickle
 
 
 # csv files
