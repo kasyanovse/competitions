@@ -1,4 +1,4 @@
-# <a href="[https://codenrock.com/contests/turbohackaton#/info](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves)">G2Net Detecting Continuous Gravitational Waves</a>
+# <a href="https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves">G2Net Detecting Continuous Gravitational Waves</a>
 
 ## Результат участия
 
