@@ -49,4 +49,14 @@
     <td>jupyter, python, sklearn, keras, catboost</td>
     <td>&#x2013</td>
   </tr>
+  
+  
+  <tr>
+    <td>5</td>
+    <td>ods</td>
+    <td><a href="https://github.com/kasyanovse/competitions/tree/main/ods/2023.03_MTS%20ML%20CUP">MTS ML CUP</a></td>
+    <td>age and sex classification</td>
+    <td>catboost, CNN, transformer, structured state-space model</td>
+    <td>&#x2013</td>
+  </tr>
 </table>
